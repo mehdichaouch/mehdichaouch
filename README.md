@@ -52,7 +52,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (2 days ago)
+- [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (3 days ago)
 - [Create LICENSE](https://github.com/randallkanna/awesome-job-list/pull/26) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 - [Text formatting](https://github.com/randallkanna/awesome-job-list/pull/24) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 - [👷 Add PHP Compatibility](https://github.com/mehdichaouch/email-to-slack/pull/2) on [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) (3 months ago)

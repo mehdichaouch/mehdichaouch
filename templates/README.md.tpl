@@ -1,11 +1,11 @@
 # Hi there! 👋
 
-<img align="right" title="Hacker emblem" alt="Hacker emblem" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Glider.svg/1280px-Glider.svg.png" width="180">
+<img align="right" title="Glider Hacker emblem" alt="Glider Hacker emblem" src="https://www.mediawiki.org/w/index.php?title=Special:Redirect/file/Glider.svg&width=180&height=180">
 
 - <details>
     <summary>I am Mehdi Chaouch and you can click here to hear how to pronounce my name;</summary>
 
-  https://user-images.githubusercontent.com/861701/137650876-14f45303-cd42-4c4e-a172-a80abc8aa627.mp4
+    https://user-images.githubusercontent.com/861701/137650876-14f45303-cd42-4c4e-a172-a80abc8aa627.mp4
 </details>
 
 - I am a PHP developer and I am currently working as a Magento 2 developer for Wide Agency in Switzerland;

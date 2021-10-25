@@ -23,7 +23,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (today)
+- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (1 day ago)
 - [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - A hack to read emails on a Slack channel while staying in free plan 🏴‍☠ (2 months ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 months ago)
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more. (2 months ago)
@@ -43,7 +43,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 1 month ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
+- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 2 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v0.9.1](https://github.com/nabaztag2018/pynab/releases/tag/v0.9.1), 4 months ago) - Nabaztag en Python pour RaspberryPi
 - [pguyot/nabblockly](https://github.com/pguyot/nabblockly) ([v1.0.1](https://github.com/pguyot/nabblockly/releases/tag/v1.0.1), 5 months ago) - Blockly interface for Nabaztag
 - [advocodo/magento2-cart-quantity-multiple](https://github.com/advocodo/magento2-cart-quantity-multiple) ([1.0.0](https://github.com/advocodo/magento2-cart-quantity-multiple/releases/tag/1.0.0), 5 months ago) - Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
@@ -52,7 +52,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (4 days ago)
+- [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (5 days ago)
 - [Create LICENSE](https://github.com/randallkanna/awesome-job-list/pull/26) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 - [Text formatting](https://github.com/randallkanna/awesome-job-list/pull/24) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 - [👷 Add PHP Compatibility](https://github.com/mehdichaouch/email-to-slack/pull/2) on [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) (3 months ago)

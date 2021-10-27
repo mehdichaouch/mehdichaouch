@@ -23,7 +23,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (2 days ago)
+- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (3 days ago)
 - [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - A hack to read emails on a Slack channel while staying in free plan 🏴‍☠ (2 months ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 months ago)
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more. (2 months ago)
@@ -52,7 +52,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (6 days ago)
+- [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (1 week ago)
 - [Create LICENSE](https://github.com/randallkanna/awesome-job-list/pull/26) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 - [Text formatting](https://github.com/randallkanna/awesome-job-list/pull/24) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 - [👷 Add PHP Compatibility](https://github.com/mehdichaouch/email-to-slack/pull/2) on [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) (3 months ago)

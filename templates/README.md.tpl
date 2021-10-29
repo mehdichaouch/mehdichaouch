@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<img align="right" title="Glider Hacker emblem" alt="Glider Hacker emblem" src="https://www.mediawiki.org/w/index.php?title=Special:Redirect/file/Glider.svg&width=180&height=180">
+<a href="#"> <img align="right" title="Glider Hacker emblem" alt="Glider Hacker emblem" src="https://www.mediawiki.org/w/index.php?title=Special:Redirect/file/Glider.svg&width=180&height=180"></a>
 
 - <details>
     <summary>I am Mehdi Chaouch and you can click here to hear how to pronounce my name;</summary>

@@ -22,21 +22,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - A curated list of awesome Nabaztag resources 🐰 (today)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (today)
+- [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (today)
+- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (today)
 - [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (5 days ago)
 - [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - A hack to read emails on a Slack channel while staying in free plan 🏴‍☠ (2 months ago)
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 months ago)
-- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more. (3 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [mehdichaouch/screen-cheat-sheet](https://github.com/mehdichaouch/screen-cheat-sheet) - Screen Cheat Sheet &amp; Quick Reference
 - [mehdichaouch/pi-boot-script](https://github.com/mehdichaouch/pi-boot-script) - Fork of Jim Danner&#39;s excellent pi-boot-script found on gitlab.
 - [mehdichaouch/nabstory](https://github.com/mehdichaouch/nabstory) - Let your Nabaztag 🐰 read you a story 📖
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - A curated list of awesome Nabaztag resources 🐰
-- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕
+- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources
 
 ---
 

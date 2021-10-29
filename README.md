@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-<a href="#"><img align="right" title="Glider Hacker emblem" alt="Glider Hacker emblem" src="https://www.mediawiki.org/w/index.php?title=Special:Redirect/file/Glider.svg&width=160&height=160"></a>
+<a href="#"><img align="right" title="Glider Hacker emblem" alt="Glider Hacker emblem" src="https://www.mediawiki.org/w/index.php?title=Special:Redirect/file/Glider.svg&width=140&height=140"></a>
 
 - <details>
     <summary>I am Mehdi Chaouch and you can click here to hear how to pronounce my name;</summary>
@@ -8,16 +8,15 @@
     https://user-images.githubusercontent.com/861701/137650876-14f45303-cd42-4c4e-a172-a80abc8aa627.mp4
 </details>
 
-- I am a PHP developer and I am currently working as a Magento 2 developer for Wide Agency in Switzerland;
+- I am a 👨‍💻 PHP Back-End developer and I am currently working as a Magento 2 developer for Wide Agency in Switzerland 🇨🇭;
 - My pronouns are **He/Him**;
-- I speak French, English and also a bit of Spanish.
+- I speak French 🇫🇷, English 🇬🇧 and also a bit of Spanish 🇪🇸.
 
 ---
 
 #### 📈 My GitHub Statistics
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mehdichaouch&show_icons=true&count_private=true&theme=dark&hide_title=false&hide_border=true)
-![My GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehdichaouch&layout=compact&langs_count=10&theme=dark&hide_title=true&hide_border=true)
+<img alt="My GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=mehdichaouch&show_icons=true&count_private=true&theme=dark&hide_title=false&hide_border=true" width="56%" height="56%" /><img alt="My GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehdichaouch&layout=compact&langs_count=10&theme=dark&hide_title=true&hide_border=true" width="42%" height="42%" />
 
 ---
 

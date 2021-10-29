@@ -6,11 +6,12 @@ on:
     - cron: "0 */12 * * *"
 
 jobs:
-  del_runs:
+  delete_old_runs:
+    name: 🧹 Delete old workflow runs
     runs-on: ubuntu-latest
 
     steps:
-      - name: 🧹 Delete workflow runs
+      - name: 🧹 Delete old workflow runs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
@@ -19,19 +20,22 @@ jobs:
           xargs -n1 -I % gh api repos/${{ github.repository }}/actions/runs/% -X DELETE
 
   markscribe:
+    name: 🖋️ README
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@master
+      - name: ⬇ Checkout
+        uses: actions/checkout@v2
 
-      - uses: muesli/readme-scribe@master
+      - name: 🤖 Regenerate README
+        uses: muesli/readme-scribe@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
 
-      - name: 🤖 Update generated README
+      - name: 🤖 Commit generate README changes
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
           GITHUB_TOKEN: ${{ github.token }}

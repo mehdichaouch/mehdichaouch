@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 day ago)
-- [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (1 day ago)
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (1 day ago)
-- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (6 days ago)
-- [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - A hack to read emails on a Slack channel while staying in free plan 🏴‍☠ (2 months ago)
+- [mehdichaouch/awesome-soundboard](https://github.com/mehdichaouch/awesome-soundboard) - 🔈 A curated list of awesome soundboards (today)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (2 days ago)
+- [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (2 days ago)
+- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (2 days ago)
+- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (1 week ago)
 
 ---
 
@@ -51,7 +51,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Use upload of mp4 pronunciation file to be able to read it in browser](https://github.com/sindresorhus/stuff/pull/2) on [sindresorhus/stuff](https://github.com/sindresorhus/stuff) (2 days ago)
+- [Use upload of mp4 pronunciation file to be able to read it in browser](https://github.com/sindresorhus/stuff/pull/2) on [sindresorhus/stuff](https://github.com/sindresorhus/stuff) (3 days ago)
 - [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (1 week ago)
 - [Create LICENSE](https://github.com/randallkanna/awesome-job-list/pull/26) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 - [Text formatting](https://github.com/randallkanna/awesome-job-list/pull/24) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)

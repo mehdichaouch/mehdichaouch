@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-soundboard](https://github.com/mehdichaouch/awesome-soundboard) - 🔈 A curated list of awesome soundboards (5 days ago)
+- [mehdichaouch/awesome-soundboard](https://github.com/mehdichaouch/awesome-soundboard) - 🔈 A curated list of awesome soundboards (6 days ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (1 week ago)
 - [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (1 week ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 week ago)

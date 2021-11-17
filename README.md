@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-soundboard](https://github.com/mehdichaouch/awesome-soundboard) - 🔈 A curated list of awesome soundboards (1 week ago)
+- [mehdichaouch/awesome-soundboard](https://github.com/mehdichaouch/awesome-soundboard) - 🔈 A curated list of awesome soundboards (2 weeks ago)
 - [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (2 weeks ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (2 weeks ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (2 weeks ago)
@@ -52,7 +52,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Use upload of mp4 pronunciation file to be able to read it in browser](https://github.com/sindresorhus/stuff/pull/2) on [sindresorhus/stuff](https://github.com/sindresorhus/stuff) (2 weeks ago)
-- [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (3 weeks ago)
+- [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (4 weeks ago)
 - [Create LICENSE](https://github.com/randallkanna/awesome-job-list/pull/26) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 - [Text formatting](https://github.com/randallkanna/awesome-job-list/pull/24) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (2 months ago)
 - [👷 Add PHP Compatibility](https://github.com/mehdichaouch/email-to-slack/pull/2) on [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) (4 months ago)

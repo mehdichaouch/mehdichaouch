@@ -26,7 +26,7 @@
 - [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (3 weeks ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (3 weeks ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (3 weeks ago)
-- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (3 weeks ago)
+- [mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee](https://github.com/mehdichaouch/wordpress-auto-update-and-notify-and-deploy-and-give-a-beer-or-a-coffee) - WordPress Auto Update 🆕 and Notify 🔔 and Deploy 🚀 and Give a Beer 🍺 or a Coffee ☕ (4 weeks ago)
 
 ---
 

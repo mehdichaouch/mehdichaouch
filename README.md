@@ -22,8 +22,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (2 days ago)
-- [mehdichaouch/awesome-soundboard](https://github.com/mehdichaouch/awesome-soundboard) - 🔈 A curated list of awesome soundboards (2 weeks ago)
+- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (3 days ago)
+- [mehdichaouch/awesome-soundboard](https://github.com/mehdichaouch/awesome-soundboard) - 🔈 A curated list of awesome soundboards (3 weeks ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (3 weeks ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (3 weeks ago)
 - [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (3 weeks ago)
@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 2 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
+- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 3 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v0.9.1](https://github.com/nabaztag2018/pynab/releases/tag/v0.9.1), 5 months ago) - Nabaztag en Python pour RaspberryPi
 - [pguyot/nabblockly](https://github.com/pguyot/nabblockly) ([v1.0.1](https://github.com/pguyot/nabblockly/releases/tag/v1.0.1), 6 months ago) - Blockly interface for Nabaztag
 - [advocodo/magento2-cart-quantity-multiple](https://github.com/advocodo/magento2-cart-quantity-multiple) ([1.0.0](https://github.com/advocodo/magento2-cart-quantity-multiple/releases/tag/1.0.0), 6 months ago) - Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
@@ -51,8 +51,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix readlink error on macOS](https://github.com/C-Duv/freemobile-smsapi-client/pull/8) on [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) (2 days ago)
-- [Add socials links](https://github.com/fiscafacile/CryptoFiscaFacile/pull/49) on [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) (2 days ago)
+- [Fix readlink error on macOS](https://github.com/C-Duv/freemobile-smsapi-client/pull/8) on [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) (3 days ago)
+- [Add socials links](https://github.com/fiscafacile/CryptoFiscaFacile/pull/49) on [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) (3 days ago)
 - [Use upload of mp4 pronunciation file to be able to read it in browser](https://github.com/sindresorhus/stuff/pull/2) on [sindresorhus/stuff](https://github.com/sindresorhus/stuff) (3 weeks ago)
 - [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (1 month ago)
 - [Create LICENSE](https://github.com/randallkanna/awesome-job-list/pull/26) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (2 months ago)

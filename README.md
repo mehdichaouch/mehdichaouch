@@ -22,10 +22,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (3 days ago)
-- [mehdichaouch/awesome-soundboard](https://github.com/mehdichaouch/awesome-soundboard) - 🔈 A curated list of awesome soundboards (3 weeks ago)
+- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 day ago)
+- [awesome-soundboard/awesome-soundboard](https://github.com/awesome-soundboard/awesome-soundboard) - 🔈 A curated list of awesome soundboards (1 day ago)
+- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (4 days ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (3 weeks ago)
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (3 weeks ago)
 - [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (3 weeks ago)
 
 ---
@@ -51,9 +51,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix readlink error on macOS](https://github.com/C-Duv/freemobile-smsapi-client/pull/8) on [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) (3 days ago)
-- [Add socials links](https://github.com/fiscafacile/CryptoFiscaFacile/pull/49) on [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) (3 days ago)
-- [Use upload of mp4 pronunciation file to be able to read it in browser](https://github.com/sindresorhus/stuff/pull/2) on [sindresorhus/stuff](https://github.com/sindresorhus/stuff) (3 weeks ago)
+- [Fix readlink error on macOS](https://github.com/C-Duv/freemobile-smsapi-client/pull/8) on [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) (4 days ago)
+- [Add socials links](https://github.com/fiscafacile/CryptoFiscaFacile/pull/49) on [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) (4 days ago)
+- [Use upload of mp4 pronunciation file to be able to read it in browser](https://github.com/sindresorhus/stuff/pull/2) on [sindresorhus/stuff](https://github.com/sindresorhus/stuff) (4 weeks ago)
 - [Update README.md](https://github.com/sergiokas/Extensity/pull/67) on [sergiokas/Extensity](https://github.com/sergiokas/Extensity) (1 month ago)
 - [Create LICENSE](https://github.com/randallkanna/awesome-job-list/pull/26) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (2 months ago)
 

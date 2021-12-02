@@ -51,10 +51,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add AperoCode](https://github.com/watch-devtube/contrib/pull/456) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (5 days ago)
-- [Add API Platform Meetup](https://github.com/watch-devtube/contrib/pull/455) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (5 days ago)
-- [Add Afup - Association française des utilisateurs de PHP](https://github.com/watch-devtube/contrib/pull/454) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (5 days ago)
-- [Add API Platform Conference 2021](https://github.com/watch-devtube/contrib/pull/453) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (5 days ago)
+- [Add AperoCode](https://github.com/watch-devtube/contrib/pull/456) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (6 days ago)
+- [Add API Platform Meetup](https://github.com/watch-devtube/contrib/pull/455) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (6 days ago)
+- [Add Afup - Association française des utilisateurs de PHP](https://github.com/watch-devtube/contrib/pull/454) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (6 days ago)
+- [Add API Platform Conference 2021](https://github.com/watch-devtube/contrib/pull/453) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (6 days ago)
 - [Fix readlink error on macOS](https://github.com/C-Duv/freemobile-smsapi-client/pull/8) on [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) (1 week ago)
 
 ---

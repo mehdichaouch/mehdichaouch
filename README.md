@@ -24,7 +24,7 @@
 
 - [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 week ago)
 - [awesome-soundboard/awesome-soundboard](https://github.com/awesome-soundboard/awesome-soundboard) - 🔈 A curated list of awesome soundboards (1 week ago)
-- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (1 week ago)
+- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (2 weeks ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (1 month ago)
 - [sindresorhus/stuff](https://github.com/sindresorhus/stuff) - Random stuff I want to share (1 month ago)
 
@@ -55,7 +55,7 @@
 - [Add API Platform Meetup](https://github.com/watch-devtube/contrib/pull/455) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (1 week ago)
 - [Add Afup - Association française des utilisateurs de PHP](https://github.com/watch-devtube/contrib/pull/454) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (1 week ago)
 - [Add API Platform Conference 2021](https://github.com/watch-devtube/contrib/pull/453) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (1 week ago)
-- [Fix readlink error on macOS](https://github.com/C-Duv/freemobile-smsapi-client/pull/8) on [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) (1 week ago)
+- [Fix readlink error on macOS](https://github.com/C-Duv/freemobile-smsapi-client/pull/8) on [C-Duv/freemobile-smsapi-client](https://github.com/C-Duv/freemobile-smsapi-client) (2 weeks ago)
 
 ---
 

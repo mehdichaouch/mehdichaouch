@@ -25,7 +25,7 @@
 - [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) - 3D solid CAD using only Javascript (1 week ago)
 - [awesome-soundboard/awesome-soundboard](https://github.com/awesome-soundboard/awesome-soundboard) - 🔈 A curated list of awesome soundboards (3 weeks ago)
 - [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (3 weeks ago)
-- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (4 weeks ago)
+- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (1 month ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (1 month ago)
 
 ---
@@ -51,7 +51,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/mageplaza/pdf-invoice-templates/pull/31) on [mageplaza/pdf-invoice-templates](https://github.com/mageplaza/pdf-invoice-templates) (3 days ago)
+- [Update README.md](https://github.com/mageplaza/pdf-invoice-templates/pull/31) on [mageplaza/pdf-invoice-templates](https://github.com/mageplaza/pdf-invoice-templates) (4 days ago)
 - [Update README.md](https://github.com/joostn/OpenJsCad/pull/94) on [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) (1 week ago)
 - [Add AperoCode](https://github.com/watch-devtube/contrib/pull/456) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (3 weeks ago)
 - [Add API Platform Meetup](https://github.com/watch-devtube/contrib/pull/455) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (3 weeks ago)

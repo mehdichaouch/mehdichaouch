@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (1 day ago)
 - [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) - 3D solid CAD using only Javascript (3 weeks ago)
 - [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 month ago)
 - [awesome-soundboard/awesome-soundboard](https://github.com/awesome-soundboard/awesome-soundboard) - 🔈 A curated list of awesome soundboards (1 month ago)
 - [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (1 month ago)
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (2 months ago)
 
 ---
 
@@ -51,11 +51,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/mageplaza/pdf-invoice-templates/pull/31) on [mageplaza/pdf-invoice-templates](https://github.com/mageplaza/pdf-invoice-templates) (2 weeks ago)
+- [Fix typo](https://github.com/AFUP-rennes/challenge-2022-01/pull/1) on [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) (1 day ago)
+- [Update README.md](https://github.com/mageplaza/pdf-invoice-templates/pull/31) on [mageplaza/pdf-invoice-templates](https://github.com/mageplaza/pdf-invoice-templates) (3 weeks ago)
 - [Update README.md](https://github.com/joostn/OpenJsCad/pull/94) on [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) (3 weeks ago)
 - [Add AperoCode](https://github.com/watch-devtube/contrib/pull/456) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (1 month ago)
 - [Add API Platform Meetup](https://github.com/watch-devtube/contrib/pull/455) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (1 month ago)
-- [Add Afup - Association française des utilisateurs de PHP](https://github.com/watch-devtube/contrib/pull/454) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (1 month ago)
 
 ---
 

@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (1 day ago)
+- [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (2 days ago)
 - [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) - 3D solid CAD using only Javascript (3 weeks ago)
 - [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 month ago)
 - [awesome-soundboard/awesome-soundboard](https://github.com/awesome-soundboard/awesome-soundboard) - 🔈 A curated list of awesome soundboards (1 month ago)
@@ -51,11 +51,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix typo](https://github.com/AFUP-rennes/challenge-2022-01/pull/1) on [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) (1 day ago)
+- [Add composer &#43; refacto](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2/pull/1) on [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) (1 day ago)
+- [Add composer](https://github.com/markalston/Alstoone_Hours/pull/1) on [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) (1 day ago)
+- [Add composer](https://github.com/mehdichaouch/magento2-alstoone-hours/pull/1) on [mehdichaouch/magento2-alstoone-hours](https://github.com/mehdichaouch/magento2-alstoone-hours) (1 day ago)
+- [Fix typo](https://github.com/AFUP-rennes/challenge-2022-01/pull/1) on [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) (2 days ago)
 - [Update README.md](https://github.com/mageplaza/pdf-invoice-templates/pull/31) on [mageplaza/pdf-invoice-templates](https://github.com/mageplaza/pdf-invoice-templates) (3 weeks ago)
-- [Update README.md](https://github.com/joostn/OpenJsCad/pull/94) on [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) (3 weeks ago)
-- [Add AperoCode](https://github.com/watch-devtube/contrib/pull/456) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (1 month ago)
-- [Add API Platform Meetup](https://github.com/watch-devtube/contrib/pull/455) on [watch-devtube/contrib](https://github.com/watch-devtube/contrib) (1 month ago)
 
 ---
 

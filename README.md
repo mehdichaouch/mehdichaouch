@@ -22,8 +22,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (2 days ago)
-- [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) - 3D solid CAD using only Javascript (3 weeks ago)
+- [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (3 days ago)
+- [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) - 3D solid CAD using only Javascript (4 weeks ago)
 - [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 month ago)
 - [awesome-soundboard/awesome-soundboard](https://github.com/awesome-soundboard/awesome-soundboard) - 🔈 A curated list of awesome soundboards (1 month ago)
 - [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (1 month ago)
@@ -51,10 +51,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add composer &#43; refacto](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2/pull/1) on [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) (1 day ago)
-- [Add composer](https://github.com/markalston/Alstoone_Hours/pull/1) on [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) (1 day ago)
-- [Add composer](https://github.com/mehdichaouch/magento2-alstoone-hours/pull/1) on [mehdichaouch/magento2-alstoone-hours](https://github.com/mehdichaouch/magento2-alstoone-hours) (1 day ago)
-- [Fix typo](https://github.com/AFUP-rennes/challenge-2022-01/pull/1) on [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) (2 days ago)
+- [Add composer &#43; refacto](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2/pull/1) on [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) (2 days ago)
+- [Add composer](https://github.com/markalston/Alstoone_Hours/pull/1) on [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) (2 days ago)
+- [Add composer](https://github.com/mehdichaouch/magento2-alstoone-hours/pull/1) on [mehdichaouch/magento2-alstoone-hours](https://github.com/mehdichaouch/magento2-alstoone-hours) (2 days ago)
+- [Fix typo](https://github.com/AFUP-rennes/challenge-2022-01/pull/1) on [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) (3 days ago)
 - [Update README.md](https://github.com/mageplaza/pdf-invoice-templates/pull/31) on [mageplaza/pdf-invoice-templates](https://github.com/mageplaza/pdf-invoice-templates) (3 weeks ago)
 
 ---

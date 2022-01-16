@@ -55,7 +55,7 @@
 - [Add composer](https://github.com/markalston/Alstoone_Hours/pull/1) on [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) (1 week ago)
 - [Add composer](https://github.com/mehdichaouch/magento2-alstoone-hours/pull/1) on [mehdichaouch/magento2-alstoone-hours](https://github.com/mehdichaouch/magento2-alstoone-hours) (1 week ago)
 - [Fix typo](https://github.com/AFUP-rennes/challenge-2022-01/pull/1) on [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) (1 week ago)
-- [Update README.md](https://github.com/mageplaza/pdf-invoice-templates/pull/31) on [mageplaza/pdf-invoice-templates](https://github.com/mageplaza/pdf-invoice-templates) (4 weeks ago)
+- [Update README.md](https://github.com/mageplaza/pdf-invoice-templates/pull/31) on [mageplaza/pdf-invoice-templates](https://github.com/mageplaza/pdf-invoice-templates) (1 month ago)
 
 ---
 

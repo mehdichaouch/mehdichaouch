@@ -22,21 +22,21 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - ELYZE dataset is based on the code of ELYZE app (2 weeks ago)
 - [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (2 weeks ago)
 - [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) - 3D solid CAD using only Javascript (1 month ago)
 - [awesome-soundboard/awesome-soundboard](https://github.com/awesome-soundboard/awesome-soundboard) - 🔈 A curated list of awesome soundboards (2 months ago)
 - [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (2 months ago)
-- [fiscafacile/CryptoFiscaFacile](https://github.com/fiscafacile/CryptoFiscaFacile) - Outil (en ligne de commande pour l&#39;instant) vous permettant de rassembler toutes les transactions de vos différents échanges et wallets afin de constituer votre portefeuille global et ainsi vous aider à la déclaration fiscale française. (2 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - ELYZE dataset is based on the code of ELYZE app
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [mehdichaouch/screen-cheat-sheet](https://github.com/mehdichaouch/screen-cheat-sheet) - Screen Cheat Sheet &amp; Quick Reference
 - [mehdichaouch/pi-boot-script](https://github.com/mehdichaouch/pi-boot-script) - Fork of Jim Danner&#39;s excellent pi-boot-script found on gitlab.
 - [mehdichaouch/nabstory](https://github.com/mehdichaouch/nabstory) - Let your Nabaztag 🐰 read you a story 📖
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources
 
 ---
 
@@ -51,7 +51,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Improve documentation](https://github.com/nabaztag2018/pynab/pull/308) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (1 day ago)
+- [Improve documentation](https://github.com/nabaztag2018/pynab/pull/308) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (2 days ago)
 - [Add composer &#43; refacto](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2/pull/1) on [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) (2 weeks ago)
 - [Add composer](https://github.com/markalston/Alstoone_Hours/pull/1) on [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) (2 weeks ago)
 - [Add composer](https://github.com/mehdichaouch/magento2-alstoone-hours/pull/1) on [mehdichaouch/magento2-alstoone-hours](https://github.com/mehdichaouch/magento2-alstoone-hours) (2 weeks ago)

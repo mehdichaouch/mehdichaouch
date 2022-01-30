@@ -51,7 +51,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Improve documentation](https://github.com/nabaztag2018/pynab/pull/308) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (6 days ago)
+- [Improve documentation](https://github.com/nabaztag2018/pynab/pull/308) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (1 week ago)
 - [Add composer &#43; refacto](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2/pull/1) on [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) (3 weeks ago)
 - [Add composer](https://github.com/markalston/Alstoone_Hours/pull/1) on [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) (3 weeks ago)
 - [Add composer](https://github.com/mehdichaouch/magento2-alstoone-hours/pull/1) on [mehdichaouch/magento2-alstoone-hours](https://github.com/mehdichaouch/magento2-alstoone-hours) (3 weeks ago)

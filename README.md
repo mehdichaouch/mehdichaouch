@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I&#39;ve been curating this for the past 7 years. (1 day ago)
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - ELYZE dataset is based on the code of ELYZE app (2 weeks ago)
 - [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (3 weeks ago)
 - [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) - 3D solid CAD using only Javascript (1 month ago)
 - [awesome-soundboard/awesome-soundboard](https://github.com/awesome-soundboard/awesome-soundboard) - 🔈 A curated list of awesome soundboards (2 months ago)
-- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (2 months ago)
 
 ---
 
@@ -51,11 +51,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Improve documentation](https://github.com/nabaztag2018/pynab/pull/308) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (1 week ago)
-- [Add composer &#43; refacto](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2/pull/1) on [mohammadzahwy2017/RestrictPMethod-Magento2](https://github.com/mohammadzahwy2017/RestrictPMethod-Magento2) (3 weeks ago)
-- [Add composer](https://github.com/markalston/Alstoone_Hours/pull/1) on [markalston/Alstoone_Hours](https://github.com/markalston/Alstoone_Hours) (3 weeks ago)
-- [Add composer](https://github.com/mehdichaouch/magento2-alstoone-hours/pull/1) on [mehdichaouch/magento2-alstoone-hours](https://github.com/mehdichaouch/magento2-alstoone-hours) (3 weeks ago)
-- [Fix typo](https://github.com/AFUP-rennes/challenge-2022-01/pull/1) on [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) (3 weeks ago)
+- [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (1 day ago)
+- [Add Github action to verify links and lint README.md](https://github.com/randallkanna/awesome-job-list/pull/35) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 day ago)
+- [Remove Ember job board](https://github.com/randallkanna/awesome-job-list/pull/34) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 day ago)
+- [Remove codepen job board](https://github.com/randallkanna/awesome-job-list/pull/33) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 day ago)
+- [Add Stakha](https://github.com/randallkanna/awesome-job-list/pull/32) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 day ago)
 
 ---
 

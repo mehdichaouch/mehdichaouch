@@ -22,10 +22,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (2 days ago)
-- [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I&#39;ve been curating this for the past 7 years. (5 days ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (3 days ago)
+- [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I&#39;ve been curating this for the past 7 years. (6 days ago)
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - ELYZE dataset is based on the code of ELYZE app (3 weeks ago)
-- [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (4 weeks ago)
+- [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (1 month ago)
 - [joostn/OpenJsCad](https://github.com/joostn/OpenJsCad) - 3D solid CAD using only Javascript (1 month ago)
 
 ---
@@ -51,11 +51,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (3 days ago)
-- [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (3 days ago)
-- [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (5 days ago)
-- [Add Github action to verify links and lint README.md](https://github.com/randallkanna/awesome-job-list/pull/35) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (5 days ago)
-- [Remove Ember job board](https://github.com/randallkanna/awesome-job-list/pull/34) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (5 days ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (4 days ago)
+- [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (4 days ago)
+- [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (6 days ago)
+- [Add Github action to verify links and lint README.md](https://github.com/randallkanna/awesome-job-list/pull/35) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (6 days ago)
+- [Remove Ember job board](https://github.com/randallkanna/awesome-job-list/pull/34) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (6 days ago)
 
 ---
 

@@ -22,21 +22,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (today)
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (4 days ago)
+- [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (1 day ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (5 days ago)
 - [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I&#39;ve been curating this for the past 7 years. (1 week ago)
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - ELYZE dataset is based on the code of ELYZE app (3 weeks ago)
-- [AFUP-rennes/challenge-2022-01](https://github.com/AFUP-rennes/challenge-2022-01) -  (1 month ago)
+- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (1 month ago)
 
 ---
 
 #### 🌱 My latest projects
 
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - ELYZE dataset is based on the code of ELYZE app
+- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 - [mehdichaouch/screen-cheat-sheet](https://github.com/mehdichaouch/screen-cheat-sheet) - Screen Cheat Sheet &amp; Quick Reference
 - [mehdichaouch/pi-boot-script](https://github.com/mehdichaouch/pi-boot-script) - Fork of Jim Danner&#39;s excellent pi-boot-script found on gitlab.
-- [mehdichaouch/nabstory](https://github.com/mehdichaouch/nabstory) - Let your Nabaztag 🐰 read you a story 📖
 
 ---
 
@@ -51,8 +51,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (5 days ago)
-- [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (5 days ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (6 days ago)
+- [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (6 days ago)
 - [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (1 week ago)
 - [Add Github action to verify links and lint README.md](https://github.com/randallkanna/awesome-job-list/pull/35) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 week ago)
 - [Remove Ember job board](https://github.com/randallkanna/awesome-job-list/pull/34) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 week ago)

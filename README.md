@@ -22,8 +22,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (5 days ago)
-- [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (5 days ago)
+- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (6 days ago)
+- [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (6 days ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 week ago)
 - [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I&#39;ve been curating this for the past 7 years. (1 week ago)
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - 🗳️ ELYZE dataset is based on the code of ELYZE app (1 month ago)

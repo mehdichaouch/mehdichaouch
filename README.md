@@ -22,10 +22,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (6 days ago)
-- [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (6 days ago)
+- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (1 week ago)
+- [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (1 week ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 week ago)
-- [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I&#39;ve been curating this for the past 7 years. (1 week ago)
+- [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) - A list of the best places to job hunt. I&#39;ve been curating this for the past 7 years. (2 weeks ago)
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - 🗳️ ELYZE dataset is based on the code of ELYZE app (1 month ago)
 
 ---
@@ -53,9 +53,9 @@
 
 - [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 week ago)
 - [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (1 week ago)
-- [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (1 week ago)
-- [Add Github action to verify links and lint README.md](https://github.com/randallkanna/awesome-job-list/pull/35) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 week ago)
-- [Remove Ember job board](https://github.com/randallkanna/awesome-job-list/pull/34) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 week ago)
+- [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (2 weeks ago)
+- [Add Github action to verify links and lint README.md](https://github.com/randallkanna/awesome-job-list/pull/35) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (2 weeks ago)
+- [Remove Ember job board](https://github.com/randallkanna/awesome-job-list/pull/34) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (2 weeks ago)
 
 ---
 

@@ -42,9 +42,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pguyot/nabblockly](https://github.com/pguyot/nabblockly) ([v1.0.2](https://github.com/pguyot/nabblockly/releases/tag/v1.0.2), 1 day ago) - Blockly interface for Nabaztag
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 5 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
-- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v0.9.1](https://github.com/nabaztag2018/pynab/releases/tag/v0.9.1), 7 months ago) - Nabaztag en Python pour RaspberryPi
-- [pguyot/nabblockly](https://github.com/pguyot/nabblockly) ([v1.0.1](https://github.com/pguyot/nabblockly/releases/tag/v1.0.1), 9 months ago) - Blockly interface for Nabaztag
+- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v0.9.1](https://github.com/nabaztag2018/pynab/releases/tag/v0.9.1), 8 months ago) - Nabaztag en Python pour RaspberryPi
 - [advocodo/magento2-cart-quantity-multiple](https://github.com/advocodo/magento2-cart-quantity-multiple) ([1.0.0](https://github.com/advocodo/magento2-cart-quantity-multiple/releases/tag/1.0.0), 9 months ago) - Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
 
 ---

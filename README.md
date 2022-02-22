@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (1 day ago)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (2 days ago)
 - [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (2 weeks ago)
 - [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (2 weeks ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (2 weeks ago)
@@ -42,8 +42,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pguyot/nabblockly](https://github.com/pguyot/nabblockly) ([v1.0.2](https://github.com/pguyot/nabblockly/releases/tag/v1.0.2), 5 days ago) - Blockly interface for Nabaztag
-- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 5 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
+- [pguyot/nabblockly](https://github.com/pguyot/nabblockly) ([v1.0.2](https://github.com/pguyot/nabblockly/releases/tag/v1.0.2), 6 days ago) - Blockly interface for Nabaztag
+- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 6 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v0.9.1](https://github.com/nabaztag2018/pynab/releases/tag/v0.9.1), 8 months ago) - Nabaztag en Python pour RaspberryPi
 - [advocodo/magento2-cart-quantity-multiple](https://github.com/advocodo/magento2-cart-quantity-multiple) ([1.0.0](https://github.com/advocodo/magento2-cart-quantity-multiple/releases/tag/1.0.0), 9 months ago) - Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
 
@@ -51,8 +51,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (2 weeks ago)
-- [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (2 weeks ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (3 weeks ago)
+- [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (3 weeks ago)
 - [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (3 weeks ago)
 - [Add Github action to verify links and lint README.md](https://github.com/randallkanna/awesome-job-list/pull/35) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (3 weeks ago)
 - [Remove Ember job board](https://github.com/randallkanna/awesome-job-list/pull/34) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (3 weeks ago)

@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun. (6 days ago)
+- [gsheeets/call](https://github.com/gsheeets/call) - 📞  Call - Smart Way to Make Phone Numbers Clickable in Google Sheets (today)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (1 day ago)
+- [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun. (1 week ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (2 weeks ago)
-- [gsheeets/call](https://github.com/gsheeets/call) -  (3 weeks ago)
-- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (1 month ago)
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (1 month ago)
+- [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (1 month ago)
 
 ---
 
@@ -46,7 +46,7 @@
 - [pguyot/nabblockly](https://github.com/pguyot/nabblockly) ([v1.0.2](https://github.com/pguyot/nabblockly/releases/tag/v1.0.2), 1 month ago) - Blockly interface for Nabaztag
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 7 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v0.9.1](https://github.com/nabaztag2018/pynab/releases/tag/v0.9.1), 9 months ago) - Nabaztag en Python pour RaspberryPi
-- [advocodo/magento2-cart-quantity-multiple](https://github.com/advocodo/magento2-cart-quantity-multiple) ([1.0.0](https://github.com/advocodo/magento2-cart-quantity-multiple/releases/tag/1.0.0), 10 months ago) - Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
+- [advocodo/magento2-cart-quantity-multiple](https://github.com/advocodo/magento2-cart-quantity-multiple) ([1.0.0](https://github.com/advocodo/magento2-cart-quantity-multiple/releases/tag/1.0.0), 11 months ago) - Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
 
 ---
 

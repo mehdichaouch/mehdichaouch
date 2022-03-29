@@ -52,11 +52,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Fix typo](https://github.com/thomas-kl1/thomas-kl1/pull/1) on [thomas-kl1/thomas-kl1](https://github.com/thomas-kl1/thomas-kl1) (today)
 - [Validate composer.json 👷 and more...](https://github.com/opengento/magento2-snowflake/pull/4) on [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) (1 week ago)
 - [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 month ago)
 - [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (1 month ago)
 - [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (1 month ago)
-- [Add Github action to verify links and lint README.md](https://github.com/randallkanna/awesome-job-list/pull/35) on [randallkanna/awesome-job-list](https://github.com/randallkanna/awesome-job-list) (1 month ago)
 
 ---
 

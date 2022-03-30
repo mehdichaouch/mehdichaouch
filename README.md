@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [gsheeets/call](https://github.com/gsheeets/call) - 📞  Call - Smart Way to Make Phone Numbers Clickable in Google Sheets (1 day ago)
-- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (2 days ago)
+- [thomas-kl1/thomas-kl1](https://github.com/thomas-kl1/thomas-kl1) -  (1 day ago)
+- [gsheeets/call](https://github.com/gsheeets/call) - 📞  Call - Smart Way to Make Phone Numbers Clickable in Google Sheets (2 days ago)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (3 days ago)
 - [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun. (1 week ago)
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (2 weeks ago)
-- [DigitalOfficy/digitalofficy.github.io](https://github.com/DigitalOfficy/digitalofficy.github.io) -  (1 month ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (3 weeks ago)
 
 ---
 
@@ -52,7 +52,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix typo](https://github.com/thomas-kl1/thomas-kl1/pull/1) on [thomas-kl1/thomas-kl1](https://github.com/thomas-kl1/thomas-kl1) (today)
+- [Fix typo](https://github.com/thomas-kl1/thomas-kl1/pull/1) on [thomas-kl1/thomas-kl1](https://github.com/thomas-kl1/thomas-kl1) (1 day ago)
 - [Validate composer.json 👷 and more...](https://github.com/opengento/magento2-snowflake/pull/4) on [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) (1 week ago)
 - [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 month ago)
 - [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (1 month ago)

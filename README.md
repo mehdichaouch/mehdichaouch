@@ -23,10 +23,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (today)
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (today)
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (today)
-- [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - 🗳️ ELYZE dataset is based on the code of ELYZE app (today)
-- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (today)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (1 day ago)
+- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (1 day ago)
+- [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - 🗳️ ELYZE dataset is based on the code of ELYZE app (1 day ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 day ago)
 
 ---
 
@@ -52,11 +52,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Fix typo](https://github.com/thomas-kl1/thomas-kl1/pull/1) on [thomas-kl1/thomas-kl1](https://github.com/thomas-kl1/thomas-kl1) (1 day ago)
+- [Fix typo](https://github.com/thomas-kl1/thomas-kl1/pull/1) on [thomas-kl1/thomas-kl1](https://github.com/thomas-kl1/thomas-kl1) (2 days ago)
 - [Validate composer.json 👷 and more...](https://github.com/opengento/magento2-snowflake/pull/4) on [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) (1 week ago)
 - [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/1) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 month ago)
 - [Improvements for awesome-lint](https://github.com/maguowei/starred/pull/74) on [maguowei/starred](https://github.com/maguowei/starred) (1 month ago)
-- [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (1 month ago)
+- [Improve documentation](https://github.com/mehdichaouch/pynab/pull/4) on [mehdichaouch/pynab](https://github.com/mehdichaouch/pynab) (2 months ago)
 
 ---
 

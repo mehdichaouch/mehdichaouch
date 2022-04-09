@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 day ago)
-- [mehdichaouch/le_nightly_test](https://github.com/mehdichaouch/le_nightly_test) -  (2 days ago)
-- [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) -  (3 days ago)
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (6 days ago)
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (6 days ago)
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (today)
+- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (2 days ago)
+- [mehdichaouch/le_nightly_test](https://github.com/mehdichaouch/le_nightly_test) -  (3 days ago)
+- [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) -  (4 days ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 week ago)
 
 ---
 
@@ -52,11 +52,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 days ago)
-- [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 days ago)
-- [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 days ago)
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (6 days ago)
-- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (6 days ago)
+- [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (4 days ago)
+- [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (4 days ago)
+- [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (4 days ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 week ago)
+- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 week ago)
 
 ---
 

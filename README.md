@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 days ago)
-- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (4 days ago)
-- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (6 days ago)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (1 day ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (3 days ago)
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (5 days ago)
+- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 week ago)
 - [mehdichaouch/le_nightly_test](https://github.com/mehdichaouch/le_nightly_test) -  (1 week ago)
-- [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) -  (1 week ago)
 
 ---
 

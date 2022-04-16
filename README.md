@@ -22,9 +22,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (2 days ago)
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (4 days ago)
-- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (6 days ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 day ago)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (3 days ago)
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (1 week ago)
 - [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 week ago)
 - [mehdichaouch/le_nightly_test](https://github.com/mehdichaouch/le_nightly_test) -  (1 week ago)
 
@@ -55,8 +55,8 @@
 - [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (1 week ago)
 - [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (1 week ago)
 - [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (1 week ago)
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 week ago)
-- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 week ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (2 weeks ago)
+- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (2 weeks ago)
 
 ---
 

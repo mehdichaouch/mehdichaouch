@@ -52,9 +52,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (2 weeks ago)
-- [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (2 weeks ago)
-- [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (2 weeks ago)
+- [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
+- [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
+- [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
 - [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (3 weeks ago)
 - [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (3 weeks ago)
 

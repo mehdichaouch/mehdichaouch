@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 week ago)
-- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 week ago)
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (1 week ago)
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (1 week ago)
-- [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - 🏴‍☠ A hack to read emails on a Slack channel while staying in free plan (1 week ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 weeks ago)
+- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (2 weeks ago)
+- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (2 weeks ago)
+- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (2 weeks ago)
+- [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - 🏴‍☠ A hack to read emails on a Slack channel while staying in free plan (2 weeks ago)
 
 ---
 
@@ -55,8 +55,8 @@
 - [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
 - [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
 - [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (3 weeks ago)
-- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (3 weeks ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (4 weeks ago)
+- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (4 weeks ago)
 
 ---
 

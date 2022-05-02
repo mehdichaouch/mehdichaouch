@@ -46,7 +46,6 @@
 - [pguyot/nabblockly](https://github.com/pguyot/nabblockly) ([v1.0.2](https://github.com/pguyot/nabblockly/releases/tag/v1.0.2), 2 months ago) - Blockly interface for Nabaztag
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.13](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.13), 8 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v0.9.1](https://github.com/nabaztag2018/pynab/releases/tag/v0.9.1), 10 months ago) - Nabaztag en Python pour RaspberryPi
-- [advocodo/magento2-cart-quantity-multiple](https://github.com/advocodo/magento2-cart-quantity-multiple) ([1.0.0](https://github.com/advocodo/magento2-cart-quantity-multiple/releases/tag/1.0.0), 1 year ago) - 🛒 Magento 2 module to only allow checkout when the number of items in the cart are a multiple of X.
 
 ---
 
@@ -55,8 +54,8 @@
 - [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
 - [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
 - [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 weeks ago)
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (4 weeks ago)
-- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (4 weeks ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 month ago)
+- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 month ago)
 
 ---
 

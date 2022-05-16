@@ -23,10 +23,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 week ago)
-- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (4 weeks ago)
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (4 weeks ago)
-- [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - 🏴‍☠ A hack to read emails on a Slack channel while staying in free plan (4 weeks ago)
-- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (4 weeks ago)
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (1 month ago)
+- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (1 month ago)
+- [mehdichaouch/email-to-slack](https://github.com/mehdichaouch/email-to-slack) - 🏴‍☠ A hack to read emails on a Slack channel while staying in free plan (1 month ago)
+- [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 month ago)
 
 ---
 

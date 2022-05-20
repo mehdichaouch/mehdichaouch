@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.14](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.14), 1 day ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
+- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.14](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.14), 2 days ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [maguowei/starred](https://github.com/maguowei/starred) ([v4.2.0](https://github.com/maguowei/starred/releases/tag/v4.2.0), 1 week ago) - creating your own Awesome List by GitHub stars!
 - [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 1 month ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v0.9.1](https://github.com/nabaztag2018/pynab/releases/tag/v0.9.1), 11 months ago) - Nabaztag en Python pour RaspberryPi

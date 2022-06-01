@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.14](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.14), 1 week ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
+- [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.14](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.14), 2 weeks ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [maguowei/starred](https://github.com/maguowei/starred) ([v4.2.0](https://github.com/maguowei/starred/releases/tag/v4.2.0), 3 weeks ago) - creating your own Awesome List by GitHub stars!
 - [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 2 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
 
@@ -53,8 +53,8 @@
 - [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (1 month ago)
 - [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (1 month ago)
 - [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (1 month ago)
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 month ago)
-- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (1 month ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (2 months ago)
+- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (2 months ago)
 
 ---
 

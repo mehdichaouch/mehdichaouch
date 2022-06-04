@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (today)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (4 weeks ago)
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (1 month ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (1 month ago)
 - [advocodo/website](https://github.com/advocodo/website) - ADVOCODO website (1 month ago)
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (1 month ago)
 
 ---
 

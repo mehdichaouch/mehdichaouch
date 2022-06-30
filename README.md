@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (today)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 day ago)
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (3 weeks ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 month ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (2 months ago)
@@ -44,7 +44,7 @@
 
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.14](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.14), 1 month ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [maguowei/starred](https://github.com/maguowei/starred) ([v4.2.0](https://github.com/maguowei/starred/releases/tag/v4.2.0), 1 month ago) - creating your own Awesome List by GitHub stars!
-- [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 2 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
+- [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 3 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
 
 ---
 

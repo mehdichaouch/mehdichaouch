@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 day ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 days ago)
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (3 weeks ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 month ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (2 months ago)
@@ -53,8 +53,8 @@
 - [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (2 months ago)
 - [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (2 months ago)
 - [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (2 months ago)
-- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (2 months ago)
-- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (2 months ago)
+- [Improvements for awesome-lint](https://github.com/mehdichaouch/starred/pull/12) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (3 months ago)
+- [Bump urllib3 from 1.26.2 to 1.26.3](https://github.com/mehdichaouch/starred/pull/8) on [mehdichaouch/starred](https://github.com/mehdichaouch/starred) (3 months ago)
 
 ---
 

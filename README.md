@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (3 days ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (4 days ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 month ago)
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (1 month ago)
 - [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (3 months ago)
@@ -44,14 +44,14 @@
 
 - [OpenMage/magento-lts](https://github.com/OpenMage/magento-lts) ([v20.0.14](https://github.com/OpenMage/magento-lts/releases/tag/v20.0.14), 2 months ago) - Official OpenMage LTS codebase | Migrate easily from Magento Community Edition in minutes! Download the source code for free or contribute to OpenMage LTS | Security vulnerability patches, bug fixes, performance improvements and more.
 - [maguowei/starred](https://github.com/maguowei/starred) ([v4.2.0](https://github.com/maguowei/starred/releases/tag/v4.2.0), 2 months ago) - creating your own Awesome List by GitHub stars!
-- [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 3 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
+- [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 4 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
 
 ---
 
 #### 🔨 Latest Pull Requests I published
 
-- [📝 Update documentation - Paging and add Discord link](https://github.com/nabaztag2018/pynab/pull/422) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (3 days ago)
-- [🐛 Update template issue with last campaign and Discord](https://github.com/nabaztag2018/pynab/pull/421) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (3 days ago)
+- [📝 Update documentation - Paging and add Discord link](https://github.com/nabaztag2018/pynab/pull/422) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 days ago)
+- [🐛 Update template issue with last campaign and Discord](https://github.com/nabaztag2018/pynab/pull/421) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 days ago)
 - [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 months ago)
 - [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 months ago)
 - [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (3 months ago)

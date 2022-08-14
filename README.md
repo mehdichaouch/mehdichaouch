@@ -25,8 +25,8 @@
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (2 weeks ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 month ago)
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (2 months ago)
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (3 months ago)
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (3 months ago)
+- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (4 months ago)
+- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (4 months ago)
 
 ---
 

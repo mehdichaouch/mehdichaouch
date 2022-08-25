@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (4 weeks ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 month ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 month ago)
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (2 months ago)
 - [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (4 months ago)
@@ -49,8 +49,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [📝 Update documentation - Paging and add Discord link](https://github.com/nabaztag2018/pynab/pull/422) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 weeks ago)
-- [🐛 Update template issue with last campaign and Discord](https://github.com/nabaztag2018/pynab/pull/421) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 weeks ago)
+- [📝 Update documentation - Paging and add Discord link](https://github.com/nabaztag2018/pynab/pull/422) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (1 month ago)
+- [🐛 Update template issue with last campaign and Discord](https://github.com/nabaztag2018/pynab/pull/421) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (1 month ago)
 - [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (4 months ago)
 - [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (4 months ago)
 - [feat: Add Visitor Badge](https://github.com/hlassiege/inmypocket/pull/3) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (4 months ago)

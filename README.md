@@ -43,7 +43,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [maguowei/starred](https://github.com/maguowei/starred) ([v4.2.0](https://github.com/maguowei/starred/releases/tag/v4.2.0), 3 months ago) - creating your own Awesome List by GitHub stars!
-- [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 4 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
+- [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 5 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
 
 ---
 

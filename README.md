@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi (today)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 month ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 months ago)
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (2 months ago)
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022 (4 months ago)
-- [mehdichaouch/awesome-nabaztag](https://github.com/mehdichaouch/awesome-nabaztag) - 🐰 A curated list of awesome Nabaztag resources (4 months ago)
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (4 months ago)
 
 ---
 
@@ -42,6 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.0](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.0), 2 months ago) - Nabaztag en Python pour RaspberryPi
 - [maguowei/starred](https://github.com/maguowei/starred) ([v4.2.0](https://github.com/maguowei/starred/releases/tag/v4.2.0), 3 months ago) - creating your own Awesome List by GitHub stars!
 - [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 5 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
 

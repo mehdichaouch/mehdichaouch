@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi (today)
+- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi (1 day ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 month ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 months ago)
 - [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (2 months ago)

@@ -22,21 +22,21 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/bookmarklets](https://github.com/mehdichaouch/bookmarklets) - My useful javascript bookmarlets (today)
+- [mehdichaouch/bookmarklets](https://github.com/mehdichaouch/bookmarklets) - My useful javascript bookmarlets (1 day ago)
+- [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) or Argos (Linux alternative) (1 day ago)
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi (2 weeks ago)
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 month ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 months ago)
-- [sergiokas/Extensity](https://github.com/sergiokas/Extensity) - Quickly enable/disable Google Chrome extensions (3 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) or Argos (Linux alternative)
 - [mehdichaouch/le_nightly_test](https://github.com/mehdichaouch/le_nightly_test) - 
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - 🗳️ ELYZE dataset is based on the code of ELYZE app
 - [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 
 ---
 

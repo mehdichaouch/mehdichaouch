@@ -50,11 +50,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update logger proxy method signature](https://github.com/oliverde8/phpEtlBundle/pull/2) on [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) (1 month ago)
+- [Update logger proxy method signature](https://github.com/oliverde8/phpEtlBundle/pull/2) on [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) (2 months ago)
 - [📝 Update documentation - Paging and add Discord link](https://github.com/nabaztag2018/pynab/pull/422) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (3 months ago)
 - [🐛 Update template issue with last campaign and Discord](https://github.com/nabaztag2018/pynab/pull/421) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (3 months ago)
-- [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (6 months ago)
-- [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (6 months ago)
+- [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (7 months ago)
+- [fix: Typo](https://github.com/hlassiege/inmypocket/pull/4) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (7 months ago)
 
 ---
 

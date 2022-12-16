@@ -50,7 +50,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Click on config path comment copy to clipcoard](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/pull/1) on [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) (today)
+- [Click on config path comment copy to clipcoard](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/pull/1) on [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) (1 day ago)
 - [Update logger proxy method signature](https://github.com/oliverde8/phpEtlBundle/pull/2) on [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) (3 months ago)
 - [📝 Update documentation - Paging and add Discord link](https://github.com/nabaztag2018/pynab/pull/422) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 months ago)
 - [🐛 Update template issue with last campaign and Discord](https://github.com/nabaztag2018/pynab/pull/421) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 months ago)

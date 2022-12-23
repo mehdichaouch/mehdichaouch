@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) -  (1 week ago)
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative) (2 months ago)
 - [mehdichaouch/bookmarklets](https://github.com/mehdichaouch/bookmarklets) - My useful javascript bookmarlets (3 months ago)
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi (3 months ago)
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (4 months ago)
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (5 months ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (5 months ago)
 
 ---
 
@@ -42,6 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.2](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.2), 1 day ago) - 
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.2](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.2), 1 month ago) - Nabaztag en Python pour RaspberryPi
 - [maguowei/starred](https://github.com/maguowei/starred) ([v4.2.0](https://github.com/maguowei/starred/releases/tag/v4.2.0), 7 months ago) - creating your own Awesome List by GitHub stars!
 - [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 8 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
@@ -52,8 +53,8 @@
 
 - [Click on config path comment copy to clipcoard](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/pull/1) on [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) (1 week ago)
 - [Update logger proxy method signature](https://github.com/oliverde8/phpEtlBundle/pull/2) on [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) (3 months ago)
-- [📝 Update documentation - Paging and add Discord link](https://github.com/nabaztag2018/pynab/pull/422) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 months ago)
-- [🐛 Update template issue with last campaign and Discord](https://github.com/nabaztag2018/pynab/pull/421) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 months ago)
+- [📝 Update documentation - Paging and add Discord link](https://github.com/nabaztag2018/pynab/pull/422) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (5 months ago)
+- [🐛 Update template issue with last campaign and Discord](https://github.com/nabaztag2018/pynab/pull/421) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (5 months ago)
 - [feat: Add LICENSE](https://github.com/hlassiege/inmypocket/pull/5) on [hlassiege/inmypocket](https://github.com/hlassiege/inmypocket) (8 months ago)
 
 ---

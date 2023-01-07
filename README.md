@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (1 week ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 weeks ago)
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) -  (3 weeks ago)
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative) (3 months ago)
 - [mehdichaouch/bookmarklets](https://github.com/mehdichaouch/bookmarklets) - My useful javascript bookmarlets (3 months ago)

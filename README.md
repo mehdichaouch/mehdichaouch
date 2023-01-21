@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (3 weeks ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (4 weeks ago)
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) -  (1 month ago)
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative) (3 months ago)
 - [mehdichaouch/bookmarklets](https://github.com/mehdichaouch/bookmarklets) - My useful javascript bookmarlets (4 months ago)
@@ -42,8 +42,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [maguowei/starred](https://github.com/maguowei/starred) ([v4.3.0](https://github.com/maguowei/starred/releases/tag/v4.3.0), 6 days ago) - creating your own Awesome List by GitHub stars!
-- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.2](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.2), 4 weeks ago) - 
+- [maguowei/starred](https://github.com/maguowei/starred) ([v4.3.0](https://github.com/maguowei/starred/releases/tag/v4.3.0), 1 week ago) - creating your own Awesome List by GitHub stars!
+- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.2](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.2), 1 month ago) - 
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.2](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.2), 2 months ago) - Nabaztag en Python pour RaspberryPi
 - [opengento/magento2-snowflake](https://github.com/opengento/magento2-snowflake) ([2.0.0](https://github.com/opengento/magento2-snowflake/releases/tag/2.0.0), 9 months ago) - ❄️ Magento 2 Snowflake module allow you to add snow and even more on your site and make winter fun.
 

@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.3](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.3), 1 month ago) - 
+- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.3](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.3), 2 months ago) - 
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.2](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.2), 4 months ago) - Nabaztag en Python pour RaspberryPi
 
 ---

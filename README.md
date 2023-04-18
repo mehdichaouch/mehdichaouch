@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 weeks ago)
+- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (3 weeks ago)
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) -  (4 months ago)
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative) (6 months ago)
 - [mehdichaouch/bookmarklets](https://github.com/mehdichaouch/bookmarklets) - My useful javascript bookmarlets (7 months ago)
@@ -43,7 +43,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.3](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.3), 2 months ago) - 
-- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.2](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.2), 4 months ago) - Nabaztag en Python pour RaspberryPi
+- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.2](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.2), 5 months ago) - Nabaztag en Python pour RaspberryPi
 
 ---
 

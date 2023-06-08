@@ -42,14 +42,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.3](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.3), 3 months ago) - 
+- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.3](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.3), 4 months ago) - 
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.2](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.2), 6 months ago) - Nabaztag en Python pour RaspberryPi
 
 ---
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add YouTube Music v1.20.0](https://github.com/Homebrew/homebrew-cask/pull/148404) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (5 days ago)
+- [Add YouTube Music v1.20.0](https://github.com/Homebrew/homebrew-cask/pull/148404) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (6 days ago)
 - [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/280) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (2 weeks ago)
 - [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/276) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (3 weeks ago)
 - [Click on config path comment copy to clipcoard](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/pull/1) on [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) (5 months ago)

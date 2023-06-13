@@ -23,7 +23,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (2 months ago)
-- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) -  (5 months ago)
+- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) -  (6 months ago)
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative) (8 months ago)
 - [mehdichaouch/bookmarklets](https://github.com/mehdichaouch/bookmarklets) - My useful javascript bookmarlets (9 months ago)
 - [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi (9 months ago)
@@ -51,8 +51,8 @@
 
 - [Add YouTube Music v1.20.0](https://github.com/Homebrew/homebrew-cask/pull/148404) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 week ago)
 - [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/280) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (3 weeks ago)
-- [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/276) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (3 weeks ago)
-- [Click on config path comment copy to clipcoard](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/pull/1) on [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) (5 months ago)
+- [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/276) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (4 weeks ago)
+- [Click on config path comment copy to clipcoard](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/pull/1) on [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) (6 months ago)
 - [Update logger proxy method signature](https://github.com/oliverde8/phpEtlBundle/pull/2) on [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) (9 months ago)
 
 ---

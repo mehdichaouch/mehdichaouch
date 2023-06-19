@@ -50,7 +50,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Add YouTube Music v1.20.0](https://github.com/Homebrew/homebrew-cask/pull/148404) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (2 weeks ago)
-- [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/280) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (3 weeks ago)
+- [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/280) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (4 weeks ago)
 - [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/276) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (1 month ago)
 - [Click on config path comment copy to clipcoard](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/pull/1) on [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) (6 months ago)
 - [Update logger proxy method signature](https://github.com/oliverde8/phpEtlBundle/pull/2) on [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) (9 months ago)

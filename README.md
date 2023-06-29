@@ -53,7 +53,7 @@
 - [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/280) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (1 month ago)
 - [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/276) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (1 month ago)
 - [Click on config path comment copy to clipcoard](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/pull/1) on [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) (6 months ago)
-- [Update logger proxy method signature](https://github.com/oliverde8/phpEtlBundle/pull/2) on [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) (9 months ago)
+- [Update logger proxy method signature](https://github.com/oliverde8/phpEtlBundle/pull/2) on [oliverde8/phpEtlBundle](https://github.com/oliverde8/phpEtlBundle) (10 months ago)
 
 ---
 

@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (1 day ago)
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (2 days ago)
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) - Lumao code generator (2 weeks ago)
 - [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen (2 weeks ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (3 months ago)
@@ -54,7 +54,7 @@
 - [fix: formating](https://github.com/mehdichaouch/Lumao-Hugo/pull/1) on [mehdichaouch/Lumao-Hugo](https://github.com/mehdichaouch/Lumao-Hugo) (2 weeks ago)
 - [[BUGFIX] PHP Runtime Deprecation Notice](https://github.com/SvenJuergens/belogin_images/pull/6) on [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) (2 weeks ago)
 - [Add YouTube Music v1.20.0](https://github.com/Homebrew/homebrew-cask/pull/148404) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 month ago)
-- [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/280) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (1 month ago)
+- [Changes for TYPO3 10](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted/pull/280) on [TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted](https://github.com/TYPO3-Documentation/TYPO3CMS-Tutorial-GettingStarted) (2 months ago)
 
 ---
 

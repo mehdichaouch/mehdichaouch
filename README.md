@@ -24,8 +24,8 @@
 
 - [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (1 month ago)
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (1 month ago)
-- [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) - Lumao code generator (1 month ago)
-- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen (1 month ago)
+- [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) - Lumao code generator (2 months ago)
+- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen (2 months ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (5 months ago)
 
 ---
@@ -50,9 +50,9 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (1 month ago)
-- [fix: formating](https://github.com/LavoWeb/Lumao-Hugo/pull/37) on [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) (1 month ago)
-- [fix: formating](https://github.com/mehdichaouch/Lumao-Hugo/pull/1) on [mehdichaouch/Lumao-Hugo](https://github.com/mehdichaouch/Lumao-Hugo) (1 month ago)
-- [[BUGFIX] PHP Runtime Deprecation Notice](https://github.com/SvenJuergens/belogin_images/pull/6) on [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) (1 month ago)
+- [fix: formating](https://github.com/LavoWeb/Lumao-Hugo/pull/37) on [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) (2 months ago)
+- [fix: formating](https://github.com/mehdichaouch/Lumao-Hugo/pull/1) on [mehdichaouch/Lumao-Hugo](https://github.com/mehdichaouch/Lumao-Hugo) (2 months ago)
+- [[BUGFIX] PHP Runtime Deprecation Notice](https://github.com/SvenJuergens/belogin_images/pull/6) on [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) (2 months ago)
 - [Add YouTube Music v1.20.0](https://github.com/Homebrew/homebrew-cask/pull/148404) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (3 months ago)
 
 ---

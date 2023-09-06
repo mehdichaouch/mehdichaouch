@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.3](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.3), 6 months ago) - 
+- [pragmatic-modules/magento2-module-system-configuration-toolkit](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit) ([1.1.3](https://github.com/pragmatic-modules/magento2-module-system-configuration-toolkit/releases/tag/1.1.3), 7 months ago) - 
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) ([v0](https://github.com/LavoWeb/Lumao-Hugo/releases/tag/v0), 2 years ago) - Lumao code generator
 
 ---

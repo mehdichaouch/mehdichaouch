@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (1 month ago)
+- [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (2 months ago)
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (2 months ago)
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) - Lumao code generator (2 months ago)
 - [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen (2 months ago)
@@ -49,11 +49,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (1 month ago)
+- [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (2 months ago)
 - [fix: formating](https://github.com/LavoWeb/Lumao-Hugo/pull/37) on [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) (2 months ago)
 - [fix: formating](https://github.com/mehdichaouch/Lumao-Hugo/pull/1) on [mehdichaouch/Lumao-Hugo](https://github.com/mehdichaouch/Lumao-Hugo) (2 months ago)
 - [[BUGFIX] PHP Runtime Deprecation Notice](https://github.com/SvenJuergens/belogin_images/pull/6) on [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) (2 months ago)
-- [Add YouTube Music v1.20.0](https://github.com/Homebrew/homebrew-cask/pull/148404) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (3 months ago)
+- [Add YouTube Music v1.20.0](https://github.com/Homebrew/homebrew-cask/pull/148404) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (4 months ago)
 
 ---
 

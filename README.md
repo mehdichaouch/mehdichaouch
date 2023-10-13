@@ -49,7 +49,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update Feature-96874-CKEditor5.rst](https://github.com/TYPO3/typo3/pull/465) on [TYPO3/typo3](https://github.com/TYPO3/typo3) (1 day ago)
+- [Update Feature-96874-CKEditor5.rst](https://github.com/TYPO3/typo3/pull/465) on [TYPO3/typo3](https://github.com/TYPO3/typo3) (2 days ago)
 - [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (2 months ago)
 - [fix: formating](https://github.com/LavoWeb/Lumao-Hugo/pull/37) on [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) (3 months ago)
 - [fix: formating](https://github.com/mehdichaouch/Lumao-Hugo/pull/1) on [mehdichaouch/Lumao-Hugo](https://github.com/mehdichaouch/Lumao-Hugo) (3 months ago)

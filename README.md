@@ -23,7 +23,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (2 months ago)
-- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (2 months ago)
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (3 months ago)
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) - Lumao code generator (3 months ago)
 - [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen (3 months ago)
 - [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (6 months ago)
@@ -49,11 +49,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update Feature-96874-CKEditor5.rst](https://github.com/TYPO3/typo3/pull/465) on [TYPO3/typo3](https://github.com/TYPO3/typo3) (5 days ago)
+- [Update composer.json](https://github.com/hmmh/typo3-solr-file-indexer/pull/51) on [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) (1 day ago)
+- [Update Feature-96874-CKEditor5.rst](https://github.com/TYPO3/typo3/pull/465) on [TYPO3/typo3](https://github.com/TYPO3/typo3) (6 days ago)
 - [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (2 months ago)
 - [fix: formating](https://github.com/LavoWeb/Lumao-Hugo/pull/37) on [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) (3 months ago)
 - [fix: formating](https://github.com/mehdichaouch/Lumao-Hugo/pull/1) on [mehdichaouch/Lumao-Hugo](https://github.com/mehdichaouch/Lumao-Hugo) (3 months ago)
-- [[BUGFIX] PHP Runtime Deprecation Notice](https://github.com/SvenJuergens/belogin_images/pull/6) on [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) (3 months ago)
 
 ---
 

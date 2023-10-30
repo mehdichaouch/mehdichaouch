@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (2 months ago)
+- [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (3 months ago)
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (3 months ago)
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) - Lumao code generator (3 months ago)
 - [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen (3 months ago)
@@ -49,10 +49,10 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/lbrunet/Plongee-dans-les-CSP/pull/16) on [lbrunet/Plongee-dans-les-CSP](https://github.com/lbrunet/Plongee-dans-les-CSP) (4 days ago)
-- [Update composer.json](https://github.com/hmmh/typo3-solr-file-indexer/pull/51) on [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) (1 week ago)
+- [Update README.md](https://github.com/lbrunet/Plongee-dans-les-CSP/pull/16) on [lbrunet/Plongee-dans-les-CSP](https://github.com/lbrunet/Plongee-dans-les-CSP) (5 days ago)
+- [Update composer.json](https://github.com/hmmh/typo3-solr-file-indexer/pull/51) on [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) (2 weeks ago)
 - [Update Feature-96874-CKEditor5.rst](https://github.com/TYPO3/typo3/pull/465) on [TYPO3/typo3](https://github.com/TYPO3/typo3) (2 weeks ago)
-- [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (2 months ago)
+- [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (3 months ago)
 - [fix: formating](https://github.com/LavoWeb/Lumao-Hugo/pull/37) on [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) (3 months ago)
 
 ---

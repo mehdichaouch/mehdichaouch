@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (1 day ago)
 - [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (3 months ago)
 - [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (3 months ago)
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) - Lumao code generator (4 months ago)
 - [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen (4 months ago)
-- [mehdichaouch/revolut-real-exchange-rates-monitor](https://github.com/mehdichaouch/revolut-real-exchange-rates-monitor) - Track Revolut currency exchange to get best rate when you transfer. (7 months ago)
 
 ---
 
@@ -50,7 +50,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Update README.md](https://github.com/lbrunet/Plongee-dans-les-CSP/pull/16) on [lbrunet/Plongee-dans-les-CSP](https://github.com/lbrunet/Plongee-dans-les-CSP) (2 weeks ago)
-- [Update composer.json](https://github.com/hmmh/typo3-solr-file-indexer/pull/51) on [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) (3 weeks ago)
+- [Update composer.json](https://github.com/hmmh/typo3-solr-file-indexer/pull/51) on [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) (4 weeks ago)
 - [Update Feature-96874-CKEditor5.rst](https://github.com/TYPO3/typo3/pull/465) on [TYPO3/typo3](https://github.com/TYPO3/typo3) (1 month ago)
 - [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (3 months ago)
 - [fix: formating](https://github.com/LavoWeb/Lumao-Hugo/pull/37) on [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) (4 months ago)

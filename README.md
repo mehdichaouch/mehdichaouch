@@ -50,7 +50,7 @@
 #### 🔨 Latest Pull Requests I published
 
 - [Update README.md](https://github.com/lbrunet/Plongee-dans-les-CSP/pull/16) on [lbrunet/Plongee-dans-les-CSP](https://github.com/lbrunet/Plongee-dans-les-CSP) (1 month ago)
-- [Update composer.json](https://github.com/hmmh/typo3-solr-file-indexer/pull/51) on [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) (1 month ago)
+- [Update composer.json](https://github.com/hmmh/typo3-solr-file-indexer/pull/51) on [hmmh/typo3-solr-file-indexer](https://github.com/hmmh/typo3-solr-file-indexer) (2 months ago)
 - [Update Feature-96874-CKEditor5.rst](https://github.com/TYPO3/typo3/pull/465) on [TYPO3/typo3](https://github.com/TYPO3/typo3) (2 months ago)
 - [Add firmware 08.0701](https://github.com/UniverseDevel/ULO-Controller/pull/4) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (4 months ago)
 - [fix: formating](https://github.com/LavoWeb/Lumao-Hugo/pull/37) on [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) (5 months ago)

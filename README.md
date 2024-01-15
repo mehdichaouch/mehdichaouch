@@ -25,7 +25,7 @@
 - [mehdichaouch/YAWAC](https://github.com/mehdichaouch/YAWAC) - Yet Another Wifi Auto Connect (YAWAC) is a shell script to connect to a dataset of wireless connection and free hotspot like FreeWifi. It&#39;s works on OpenWrt. (1 month ago)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (2 months ago)
 - [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (5 months ago)
-- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (5 months ago)
+- [mehdichaouch/EmojiTrends](https://github.com/mehdichaouch/EmojiTrends) - 📷 Emoji Trends on Instagram (6 months ago)
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) - Lumao code generator (6 months ago)
 
 ---
@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) ([4.0.4](https://github.com/SvenJuergens/belogin_images/releases/tag/4.0.4), 2 days ago) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
+- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) ([4.0.4](https://github.com/SvenJuergens/belogin_images/releases/tag/4.0.4), 3 days ago) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) ([v0](https://github.com/LavoWeb/Lumao-Hugo/releases/tag/v0), 2 years ago) - Lumao code generator
 
 ---

@@ -22,8 +22,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opengento/weekend](https://github.com/opengento/weekend) -  (3 days ago)
-- [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (6 days ago)
+- [opengento/weekend](https://github.com/opengento/weekend) -  (4 days ago)
+- [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (1 week ago)
 - [opengento/magento2-belogin-images](https://github.com/opengento/magento2-belogin-images) - Magento Backend login Images (2 weeks ago)
 - [mehdichaouch/YAWAC](https://github.com/mehdichaouch/YAWAC) - Yet Another Wifi Auto Connect (YAWAC) is a shell script to connect to a dataset of wireless connection and free hotspot like FreeWifi. It&#39;s works on OpenWrt. (3 months ago)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (4 months ago)
@@ -42,18 +42,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) ([5.1.0](https://github.com/SvenJuergens/belogin_images/releases/tag/5.1.0), 1 day ago) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
+- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) ([5.1.0](https://github.com/SvenJuergens/belogin_images/releases/tag/5.1.0), 2 days ago) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) ([v0](https://github.com/LavoWeb/Lumao-Hugo/releases/tag/v0), 2 years ago) - Lumao code generator
 
 ---
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/50) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 days ago)
-- [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/48) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 days ago)
-- [fix: GH actions push permissions](https://github.com/opengento/site-opengento/pull/47) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 days ago)
-- [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/46) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 days ago)
-- [fix: GH actions git clone](https://github.com/opengento/site-opengento/pull/45) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 days ago)
+- [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/50) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 week ago)
+- [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/48) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 week ago)
+- [fix: GH actions push permissions](https://github.com/opengento/site-opengento/pull/47) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 week ago)
+- [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/46) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 week ago)
+- [fix: GH actions git clone](https://github.com/opengento/site-opengento/pull/45) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 week ago)
 
 ---
 

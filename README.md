@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) ([5.1.0](https://github.com/SvenJuergens/belogin_images/releases/tag/5.1.0), 5 days ago) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
+- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) ([5.1.0](https://github.com/SvenJuergens/belogin_images/releases/tag/5.1.0), 6 days ago) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) ([v0](https://github.com/LavoWeb/Lumao-Hugo/releases/tag/v0), 2 years ago) - Lumao code generator
 
 ---

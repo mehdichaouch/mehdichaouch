@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [opengento/weekend](https://github.com/opengento/weekend) -  (4 weeks ago)
+- [opengento/weekend](https://github.com/opengento/weekend) -  (1 month ago)
 - [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (1 month ago)
 - [opengento/magento2-belogin-images](https://github.com/opengento/magento2-belogin-images) - Magento Backend login Images (1 month ago)
 - [mehdichaouch/YAWAC](https://github.com/mehdichaouch/YAWAC) - Yet Another Wifi Auto Connect (YAWAC) is a shell script to connect to a dataset of wireless connection and free hotspot like FreeWifi. It&#39;s works on OpenWrt. (4 months ago)
@@ -42,7 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) ([5.1.0](https://github.com/SvenJuergens/belogin_images/releases/tag/5.1.0), 3 weeks ago) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
+- [SvenJuergens/belogin_images](https://github.com/SvenJuergens/belogin_images) ([5.1.0](https://github.com/SvenJuergens/belogin_images/releases/tag/5.1.0), 4 weeks ago) - TYPO3 Extension belogin_images, shows Chromecast Background Images at the BackendLogin Screen
 - [LavoWeb/Lumao-Hugo](https://github.com/LavoWeb/Lumao-Hugo) ([v0](https://github.com/LavoWeb/Lumao-Hugo/releases/tag/v0), 2 years ago) - Lumao code generator
 
 ---

@@ -49,11 +49,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [Update README.md](https://github.com/run-as-root/awesome-magento2/pull/115) on [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) (1 day ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/50) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 month ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/48) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 month ago)
 - [fix: GH actions push permissions](https://github.com/opengento/site-opengento/pull/47) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 month ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/46) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 month ago)
-- [fix: GH actions git clone](https://github.com/opengento/site-opengento/pull/45) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 month ago)
 
 ---
 

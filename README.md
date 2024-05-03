@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (today)
 - [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (2 days ago)
 - [opengento/weekend](https://github.com/opengento/weekend) -  (1 month ago)
 - [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (1 month ago)
 - [opengento/magento2-belogin-images](https://github.com/opengento/magento2-belogin-images) - Magento Backend login Images (1 month ago)
-- [mehdichaouch/YAWAC](https://github.com/mehdichaouch/YAWAC) - Yet Another Wifi Auto Connect (YAWAC) is a shell script to connect to a dataset of wireless connection and free hotspot like FreeWifi. It&#39;s works on OpenWrt. (5 months ago)
 
 ---
 

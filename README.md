@@ -22,8 +22,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (2 days ago)
-- [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (5 days ago)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (3 days ago)
+- [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (6 days ago)
 - [opengento/weekend](https://github.com/opengento/weekend) -  (1 month ago)
 - [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (1 month ago)
 - [opengento/magento2-belogin-images](https://github.com/opengento/magento2-belogin-images) - Magento Backend login Images (1 month ago)
@@ -49,7 +49,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/run-as-root/awesome-magento2/pull/115) on [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) (5 days ago)
+- [Update README.md](https://github.com/run-as-root/awesome-magento2/pull/115) on [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) (6 days ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/50) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 month ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/48) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 month ago)
 - [fix: GH actions push permissions](https://github.com/opengento/site-opengento/pull/47) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (1 month ago)

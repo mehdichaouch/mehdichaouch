@@ -26,7 +26,7 @@
 - [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (1 month ago)
 - [opengento/weekend](https://github.com/opengento/weekend) -  (2 months ago)
 - [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (2 months ago)
-- [opengento/magento2-belogin-images](https://github.com/opengento/magento2-belogin-images) - Magento Backend login Images (2 months ago)
+- [opengento/magento2-belogin-images](https://github.com/opengento/magento2-belogin-images) - Magento Backend login Images (3 months ago)
 
 ---
 

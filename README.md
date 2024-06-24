@@ -33,10 +33,10 @@
 #### 🌱 My latest projects
 
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative)
-- [mehdichaouch/le_nightly_test](https://github.com/mehdichaouch/le_nightly_test) - 
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - 🗳️ ELYZE dataset is based on the code of ELYZE app
 - [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars
 
 ---
 

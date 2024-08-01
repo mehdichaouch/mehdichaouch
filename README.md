@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (2 months ago)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (3 months ago)
 - [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (3 months ago)
 - [opengento/weekend](https://github.com/opengento/weekend) -  (4 months ago)
 - [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (4 months ago)

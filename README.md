@@ -25,7 +25,7 @@
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 month ago)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (4 months ago)
 - [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (4 months ago)
-- [opengento/weekend](https://github.com/opengento/weekend) -  (5 months ago)
+- [opengento/weekend](https://github.com/opengento/weekend) -  (6 months ago)
 - [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (6 months ago)
 
 ---

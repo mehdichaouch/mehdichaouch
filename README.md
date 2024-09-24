@@ -47,11 +47,11 @@
 
 #### 🔨 Latest Pull Requests I published
 
+- [feat: remove newsletter](https://github.com/nabaztag2018/pynab/pull/486) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (1 day ago)
 - [feat: 🤘 add paste url action](https://github.com/FabienBounoir/youtube-card/pull/1) on [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) (1 month ago)
 - [Update README.md](https://github.com/run-as-root/awesome-magento2/pull/115) on [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) (4 months ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/50) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 months ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/48) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 months ago)
-- [fix: GH actions push permissions](https://github.com/opengento/site-opengento/pull/47) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 months ago)
 
 ---
 

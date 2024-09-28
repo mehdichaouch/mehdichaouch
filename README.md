@@ -24,7 +24,7 @@
 
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (1 month ago)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (4 months ago)
-- [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (4 months ago)
+- [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (5 months ago)
 - [opengento/weekend](https://github.com/opengento/weekend) -  (6 months ago)
 - [opengento/site-opengento](https://github.com/opengento/site-opengento) -  (6 months ago)
 
@@ -47,9 +47,9 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: remove newsletter](https://github.com/nabaztag2018/pynab/pull/486) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (4 days ago)
+- [feat: remove newsletter](https://github.com/nabaztag2018/pynab/pull/486) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (5 days ago)
 - [feat: 🤘 add paste url action](https://github.com/FabienBounoir/youtube-card/pull/1) on [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) (1 month ago)
-- [Update README.md](https://github.com/run-as-root/awesome-magento2/pull/115) on [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) (4 months ago)
+- [Update README.md](https://github.com/run-as-root/awesome-magento2/pull/115) on [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) (5 months ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/50) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 months ago)
 - [feat: Update office members &#43; add CI to auto deploy site with GH actions](https://github.com/opengento/site-opengento/pull/48) on [opengento/site-opengento](https://github.com/opengento/site-opengento) (6 months ago)
 

@@ -22,8 +22,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/homebrew-airport-bssid](https://github.com/mehdichaouch/homebrew-airport-bssid) - Homebrew tap for airport-bssid (1 day ago)
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (4 days ago)
+- [mehdichaouch/homebrew-airport-bssid](https://github.com/mehdichaouch/homebrew-airport-bssid) - Homebrew tap for airport-bssid (2 days ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (5 days ago)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (1 week ago)
 - [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (4 weeks ago)
 - [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (6 months ago)
@@ -47,7 +47,7 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [Update README.md](https://github.com/crealoz/terrible-module/pull/1) on [crealoz/terrible-module](https://github.com/crealoz/terrible-module) (1 day ago)
+- [Update README.md](https://github.com/crealoz/terrible-module/pull/1) on [crealoz/terrible-module](https://github.com/crealoz/terrible-module) (2 days ago)
 - [Update README.md formatting](https://github.com/UniverseDevel/ULO-Controller/pull/5) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (4 weeks ago)
 - [feat: remove newsletter](https://github.com/nabaztag2018/pynab/pull/486) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (1 month ago)
 - [feat: 🤘 add paste url action](https://github.com/FabienBounoir/youtube-card/pull/1) on [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) (3 months ago)

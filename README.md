@@ -22,11 +22,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (5 days ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (6 days ago)
 - [mehdichaouch/homebrew-airport-bssid](https://github.com/mehdichaouch/homebrew-airport-bssid) - Homebrew tap for airport-bssid (2 weeks ago)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (3 weeks ago)
 - [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) - Scripts allowing your ULO - An interactive home monitoring owl to become a bit more useful after its support was almost immediately dropped after its release. (1 month ago)
-- [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) - Curated list of awesome Magento 2 Extensions, Resources and other Highlights (7 months ago)
+- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) - Nabaztag en Python pour RaspberryPi (2 months ago)
 
 ---
 
@@ -42,6 +42,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.2](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.2), 2 years ago) - Nabaztag en Python pour RaspberryPi
 
 ---
 

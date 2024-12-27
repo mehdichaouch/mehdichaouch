@@ -52,7 +52,7 @@
 - [Update README.md formatting](https://github.com/UniverseDevel/ULO-Controller/pull/5) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (2 months ago)
 - [feat: remove newsletter](https://github.com/nabaztag2018/pynab/pull/486) on [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) (3 months ago)
 - [feat: 🤘 add paste url action](https://github.com/FabienBounoir/youtube-card/pull/1) on [FabienBounoir/youtube-card](https://github.com/FabienBounoir/youtube-card) (4 months ago)
-- [Update README.md](https://github.com/run-as-root/awesome-magento2/pull/115) on [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) (7 months ago)
+- [Update README.md](https://github.com/run-as-root/awesome-magento2/pull/115) on [run-as-root/awesome-magento2](https://github.com/run-as-root/awesome-magento2) (8 months ago)
 
 ---
 

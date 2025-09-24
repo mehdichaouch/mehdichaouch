@@ -42,7 +42,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [nabaztag2018/pynab](https://github.com/nabaztag2018/pynab) ([v1.0.2](https://github.com/nabaztag2018/pynab/releases/tag/v1.0.2), 2 years ago) - Nabaztag en Python pour RaspberryPi
 
 ---
 

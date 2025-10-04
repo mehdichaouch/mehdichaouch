@@ -24,8 +24,8 @@
 
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (8 months ago)
 - [vincentv/test-astronauts](https://github.com/vincentv/test-astronauts) -  (8 months ago)
-- [crealoz/terrible-module](https://github.com/crealoz/terrible-module) -  (10 months ago)
-- [mehdichaouch/homebrew-airport-bssid](https://github.com/mehdichaouch/homebrew-airport-bssid) - Homebrew tap for airport-bssid (10 months ago)
+- [crealoz/terrible-module](https://github.com/crealoz/terrible-module) -  (11 months ago)
+- [mehdichaouch/homebrew-airport-bssid](https://github.com/mehdichaouch/homebrew-airport-bssid) - Homebrew tap for airport-bssid (11 months ago)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (11 months ago)
 
 ---
@@ -50,7 +50,7 @@
 - [feat: add button to copy transcript to clipboard](https://github.com/xenova/whisper-web/pull/54) on [xenova/whisper-web](https://github.com/xenova/whisper-web) (8 months ago)
 - [feat: add button to copy transcript to clipboard](https://github.com/xenova/whisper-web/pull/53) on [xenova/whisper-web](https://github.com/xenova/whisper-web) (8 months ago)
 - [docs: typo fix](https://github.com/vincentv/test-astronauts/pull/1) on [vincentv/test-astronauts](https://github.com/vincentv/test-astronauts) (8 months ago)
-- [Update README.md](https://github.com/crealoz/terrible-module/pull/1) on [crealoz/terrible-module](https://github.com/crealoz/terrible-module) (10 months ago)
+- [Update README.md](https://github.com/crealoz/terrible-module/pull/1) on [crealoz/terrible-module](https://github.com/crealoz/terrible-module) (11 months ago)
 - [Update README.md formatting](https://github.com/UniverseDevel/ULO-Controller/pull/5) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (11 months ago)
 
 ---

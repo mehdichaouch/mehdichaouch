@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (8 months ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (9 months ago)
 - [vincentv/test-astronauts](https://github.com/vincentv/test-astronauts) -  (9 months ago)
 - [crealoz/terrible-module](https://github.com/crealoz/terrible-module) -  (11 months ago)
 - [mehdichaouch/homebrew-airport-bssid](https://github.com/mehdichaouch/homebrew-airport-bssid) - Homebrew tap for airport-bssid (11 months ago)

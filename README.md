@@ -26,7 +26,7 @@
 - [vincentv/test-astronauts](https://github.com/vincentv/test-astronauts) -  (9 months ago)
 - [crealoz/terrible-module](https://github.com/crealoz/terrible-module) -  (11 months ago)
 - [mehdichaouch/homebrew-airport-bssid](https://github.com/mehdichaouch/homebrew-airport-bssid) - Homebrew tap for airport-bssid (11 months ago)
-- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (11 months ago)
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (1 year ago)
 
 ---
 

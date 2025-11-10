@@ -24,8 +24,6 @@
 
 - [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (9 months ago)
 - [vincentv/test-astronauts](https://github.com/vincentv/test-astronauts) -  (10 months ago)
-- [crealoz/terrible-module](https://github.com/crealoz/terrible-module) -  (1 year ago)
-- [mehdichaouch/homebrew-airport-bssid](https://github.com/mehdichaouch/homebrew-airport-bssid) - Homebrew tap for airport-bssid (1 year ago)
 
 ---
 

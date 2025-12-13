@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (10 months ago)
+- [mehdichaouch/awesome-stars](https://github.com/mehdichaouch/awesome-stars) - ⭐ My own GitHub stars (11 months ago)
 - [vincentv/test-astronauts](https://github.com/vincentv/test-astronauts) -  (11 months ago)
 
 ---

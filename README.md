@@ -22,17 +22,18 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mehdichaouch/rktt-qrcode](https://github.com/mehdichaouch/rktt-qrcode) -  (today)
 - [mehdichaouch/127h](https://github.com/mehdichaouch/127h) -  (3 months ago)
 
 ---
 
 #### 🌱 My latest projects
 
+- [mehdichaouch/rktt-qrcode](https://github.com/mehdichaouch/rktt-qrcode) - 
 - [mehdichaouch/127h](https://github.com/mehdichaouch/127h) - 
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉
 - [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - 🗳️ ELYZE dataset is based on the code of ELYZE app
-- [mehdichaouch/election-presidentielle-francaise](https://github.com/mehdichaouch/election-presidentielle-francaise) - 🗳️  Élection présidentielle française 2022
 
 ---
 

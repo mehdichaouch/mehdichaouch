@@ -22,7 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [mehdichaouch/rktt-qrcode](https://github.com/mehdichaouch/rktt-qrcode) -  (2 weeks ago)
+- [mehdichaouch/rktt-qrcode](https://github.com/mehdichaouch/rktt-qrcode) -  (3 weeks ago)
 - [mehdichaouch/127h](https://github.com/mehdichaouch/127h) -  (4 months ago)
 
 ---

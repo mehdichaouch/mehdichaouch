@@ -31,9 +31,9 @@
 
 - [mehdichaouch/rktt-qrcode](https://github.com/mehdichaouch/rktt-qrcode) - 
 - [mehdichaouch/127h](https://github.com/mehdichaouch/127h) - 
+- [mehdichaouch/WP-AutoUpdate-1](https://github.com/mehdichaouch/WP-AutoUpdate-1) - Automate WordPress Updates using bash and WP-CLI
 - [mehdichaouch/some-bitbar-xbar-argos-plugins](https://github.com/mehdichaouch/some-bitbar-xbar-argos-plugins) - My plugin repository for xbar (the BitBar reboot) and Argos (Linux alternative)
 - [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉
-- [mehdichaouch/elyze-dataset](https://github.com/mehdichaouch/elyze-dataset) - 🗳️ ELYZE dataset is based on the code of ELYZE app
 
 ---
 

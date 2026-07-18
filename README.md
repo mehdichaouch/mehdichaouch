@@ -44,8 +44,8 @@
 
 #### 🔨 Latest Pull Requests I published
 
-- [feat: add button to copy transcript to clipboard](https://github.com/xenova/whisper-web/pull/54) on [xenova/whisper-web](https://github.com/xenova/whisper-web) (1 year ago)
-- [feat: add button to copy transcript to clipboard](https://github.com/xenova/whisper-web/pull/53) on [xenova/whisper-web](https://github.com/xenova/whisper-web) (1 year ago)
+- [feat: add button to copy transcript to clipboard](https://github.com/xenova/whisper-web/pull/54) on [xenova/whisper-web](https://github.com/xenova/whisper-web) (2 years ago)
+- [feat: add button to copy transcript to clipboard](https://github.com/xenova/whisper-web/pull/53) on [xenova/whisper-web](https://github.com/xenova/whisper-web) (2 years ago)
 - [docs: typo fix](https://github.com/vincentv/test-astronauts/pull/1) on [vincentv/test-astronauts](https://github.com/vincentv/test-astronauts) (2 years ago)
 - [Update README.md](https://github.com/crealoz/terrible-module/pull/1) on [crealoz/terrible-module](https://github.com/crealoz/terrible-module) (2 years ago)
 - [Update README.md formatting](https://github.com/UniverseDevel/ULO-Controller/pull/5) on [UniverseDevel/ULO-Controller](https://github.com/UniverseDevel/ULO-Controller) (2 years ago)

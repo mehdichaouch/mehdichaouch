@@ -22,6 +22,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [mehdichaouch/list-of-top-level-domains](https://github.com/mehdichaouch/list-of-top-level-domains) - 🏋️ An other list of all valid Top-Level Domains (TLDs) maintained by the IANA, but updated automatically 🎉 (today)
 - [mehdichaouch/rktt-qrcode](https://github.com/mehdichaouch/rktt-qrcode) -  (7 months ago)
 - [mehdichaouch/127h](https://github.com/mehdichaouch/127h) -  (10 months ago)
 
